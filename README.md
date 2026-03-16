@@ -31,8 +31,8 @@ Version Control: GitHub
 * Mobile application
 * Health analytics
 
-## Team
-
-* Your Name – Frontend
-* Teammate 1 – Frontend
-* Teammate 2 – Backend
+## Ctrl+Alt+Win
+Vaishnavi
+Sapna jha
+sakshami singh
+muskan jha
