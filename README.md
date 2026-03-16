@@ -32,7 +32,7 @@ Version Control: GitHub
 * Health analytics
 
 ## Ctrl+Alt+Win
-Vaishnavi
-Sapna jha
-sakshami singh
-muskan jha
+* Vaishnavi
+* Sapna jha
+* Sakshami singh
+* Muskan jha
